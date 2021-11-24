@@ -9,7 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcborsolan&count_private=true&theme=dracula&include_all_commits=true&layout=compact"/>
   </a>
 </div>
-<div>
-  ![Snake animation](https://github.com/vcborsolan/vcborsolan/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/vcborsolan/vcborsolan/blob/output/github-contribution-grid-snake.svg)
 
