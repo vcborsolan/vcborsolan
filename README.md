@@ -15,11 +15,12 @@ A passionate back-end web developer actualy living on Porto Alegre/RS - Brazil
 ##
 <div>
   <div>
-    <a align="center" href="https://github.com/vcborsolan">
-      <div>
-        <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vcborsolan&show_icons=true&count_private=true&theme=dracula&include_all_commits=true"/>
-        <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcborsolan&count_private=true&theme=dracula&include_all_commits=true&layout=compact"/>    
-        <img height="130em" src="http://github-readme-streak-stats.herokuapp.com?user=vcborsolan&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=vcborsolan&show_icons=true&count_private=true&theme=dracula&include_all_commits=true"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"> 
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vcborsolan&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+        </a>
     </div>
     </a>
 </div>
