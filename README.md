@@ -2,11 +2,11 @@
 
 ## I'm Victor Orsolan
 
-A passionate back-end web developer actualy living on Porto Alegre/RS - Brazil
+A passionate back-end web developer actualy living on Sorocaba/SP - Brazil
 
-- 🔭 I’m currently working on [MeSalva!](https://www.mesalva.com/b)
+- 🔭 I’m currently looking for job
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **Elixir**
 
 - 💬 Ask me about **Ruby or Rails**
 
